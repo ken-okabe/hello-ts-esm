@@ -1,0 +1,24 @@
+{
+  "name": "hello-ts-esm",
+  "version": "0.0.1",
+  "description": "template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stken2050/hello-ts-esm.git"
+  },
+  "author": "Ken Okabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stken2050/hello-ts-esm/issues"
+  },
+  "homepage": "https://github.com/stken2050/hello-ts-esm#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "esm": "*",
+    "typescript": "*"
+  }
+}
